@@ -1,7 +1,6 @@
 <div id="header" align="center">
 	<h1 align="center">Me llamo Nick Rayan Cerrón</h1>
-	<h4 align="center">Estudiante de la carrera de Desarrollo de Sistemas de Información enfocado en el Desarrollo Backend, busco la oportunidad de adquirir experiencia laboral en la creación de RESTful API's, mantenimiento y "testing e2e" de estas. 
-Soy una persona colaborativa a la que le gusta trabajar en equipo, dando lo mejor de mi y apoyando en todo lo que este en mis manos de la mejor manera, además, me gusta enseñar y aprender de otros.
+	<h4 align="center">+10 meses de experiencia como Desarrollador Backend con Node.js. Autodidacta y con buenas prácticas en código. Muy versátil y siempre atento a recibir y dar guía a mi equipo. Capaz de crear servicios Backend Restful API’S y Microservicios de principio a fin, con testing y documentación incluidas. 
 Siempre me gusta estar aprendiendo, soy muy autodidacta e investigador. También soy responsable y enfocado en mi trabajo.
 	</h4>
 </div>
