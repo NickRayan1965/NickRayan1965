@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<h1 align="center">Me llamo Nick Rayan Cerrón</h1>
-	<h4 align="center">+1 año de experiencia trabajando en proyectos de alta complejidad como Desarrollador Backend (Node.js y Java). Buenas prácticas de código, muy versátil y siempre atento a recibir y dar guía a mi equipo. Capaz de crear servicios y microservicios de principio a fin, con testing y documentación incluidas.
+	<h4 align="center">2 año des experiencia trabajando en proyectos de alta complejidad como Desarrollador Backend (Node.js y Java). Buenas prácticas de código, muy versátil y siempre atento a recibir y dar guía a mi equipo. Capaz de crear servicios y microservicios de principio a fin, con testing y documentación incluidas.
 Soy una persona colaborativa a la que le gusta trabajar en equipo, dando lo mejor de mi y apoyando lo máximo posible, además, me gusta enseñar y aprender de otros.
 Soy autodidacta, responsable y enfocado en mi trabajo.
 	</h4>
